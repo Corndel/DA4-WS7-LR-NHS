@@ -1,5 +1,5 @@
 # DA4-WS7-LR-NHS
 
 
-Testing connection
+Simple and Multiple Linear Regression
 
